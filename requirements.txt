@@ -1,0 +1,6 @@
+azure-identity==1.15.0
+azure-mgmt-compute==31.0.0
+azure-mgmt-storage==21.1.0
+azure-mgmt-keyvault==10.3.0
+azure-mgmt-network
+rich==13.7.0
